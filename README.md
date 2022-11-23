@@ -38,7 +38,7 @@ Wrote a program using Python and a Tkinter GUI interface to automatically genera
 ### 6 Oct 2022 - Landing Page
 Created a landing page using HTML and CSS as part of the Odin Project.
  https://catrionafsmith.github.io/girl-code/
-<img width="1423" alt="Screenshot 2022-11-23 at 22 06 22" src="https://user-images.githubusercontent.com/113362369/203653945-e14f6c12-d9cb-4f15-91fd-f5f2d7494248.png">
+<img width="1423" alt="Screenshot 2022-11-23 at 22 33 30" src="https://user-images.githubusercontent.com/113362369/203657249-4a4b35d9-da82-420e-8949-4b0c44e499c5.png">
 
 ### 18 Sept 2022 - Spotify Time Machine:
 Completed as part of Angela Yu's 100 Days of Code: Python.
