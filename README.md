@@ -10,7 +10,7 @@ https://catrionafsmith.github.io/scotland-rugby-soundboard/
 ### 14 Nov 2022 - Inspirational Quote Generator:
 Used Python and a Tkinter GUI, with an API to create an automatic quote generator.
 https://github.com/catrionafsmith/quote-creator
-<img width="1415" alt="quote" src="https://user-images.githubusercontent.com/113362369/203656650-86eaf8d1-e151-4d60-89ea-e6768bb899a0.png">
+<img width="615" alt="quote" src="https://user-images.githubusercontent.com/113362369/203656650-86eaf8d1-e151-4d60-89ea-e6768bb899a0.png">
 
 ### 6 Nov 2022 - Calculator:
 Made a functional calculator from scratch using #HTML #CSS and #JavaScript.
@@ -34,12 +34,12 @@ https://catrionafsmith.github.io/scot_v_aus_soundboard/
 
 ### Oct 2022 - Vogon Poetry: 
 Wrote a program using Python and a Tkinter GUI interface to automatically generate poetry. https://github.com/catrionafsmith/vogon-poetry
-<img width="942" alt="Screenshot 2022-11-18 at 13 03 16" src="https://user-images.githubusercontent.com/113362369/203652129-8201ccf3-c099-4a67-9a2a-34446016c5bc.png">
+<img width="600" alt="Screenshot 2022-11-18 at 13 03 16" src="https://user-images.githubusercontent.com/113362369/203652129-8201ccf3-c099-4a67-9a2a-34446016c5bc.png">
 
 ### 6 Oct 2022 - Landing Page
 Created a landing page using HTML and CSS as part of the Odin Project.
  https://catrionafsmith.github.io/girl-code/
-<img width="1423" alt="Screenshot 2022-11-23 at 22 33 30" src="https://user-images.githubusercontent.com/113362369/203657249-4a4b35d9-da82-420e-8949-4b0c44e499c5.png">
+<img width="600" alt="Screenshot 2022-11-23 at 22 33 30" src="https://user-images.githubusercontent.com/113362369/203657249-4a4b35d9-da82-420e-8949-4b0c44e499c5.png">
 
 ### 18 Sept 2022 - Spotify Time Machine:
 Completed as part of Angela Yu's 100 Days of Code: Python.
