@@ -3,9 +3,9 @@ Click on the links to try out the projects or see the code within them!
 
 ### Haggis Neeps and Tatties - Automatic Recipe Suggestions
 A Flask app which uses an external API to generate meal suggestions.
-To look inside ---> https://github.com/catrionafsmith/haggisneepsandtatties/
+To look inside: https://github.com/catrionafsmith/haggisneepsandtatties/
 
-<p align="center"><img width="360" alt="rugby soundboard" src="https://user-images.githubusercontent.com/113362369/209400204-c8f7b44b-b66c-4882-817c-6198d6c1b241.gif"></p>
+<p align="center"><img width="400" alt="random recipe suggestions" src="https://user-images.githubusercontent.com/113362369/209408102-da4ee89c-b7a5-4a3d-bd3b-5535f2943d5d.gif"></p>
 
 ---
 
