@@ -1,6 +1,20 @@
 # A portfolio of my projects to date
 Click on the links to try out the projects or see the code within them!
 
+---
+
+### Are You Bored?
+If you're bored, why not use this Flask app to receive a creative suggestion for what you should do next?!
+
+[Click on this link to get some inspiration from the deployed app!](http://oldfashioned891.pythonanywhere.com/)
+
+<p align="center"><img width="400" alt="random recipe suggestions" src="https://user-images.githubusercontent.com/113362369/212678018-f03aec3e-addf-428e-a2dc-036cebf9b599.gif"></p>
+
+This is a Flask app which makes suggestions on what to do, using the Bored API.
+[Click on this link to see the code inside!](https://github.com/catrionafsmith/are_you_bored)
+
+--- 
+
 ### Haggis Neeps and Tatties - Automatic Recipe Suggestions
 A Flask app which uses an external API to generate meal suggestions.
 To look inside: https://github.com/catrionafsmith/haggisneepsandtatties/
