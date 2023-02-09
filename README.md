@@ -3,6 +3,18 @@ Click on the links to try out the projects or see the code within them!
 
 ---
 
+### LearnCodeEmpower
+I created a chatbot using the OpenAI API and deployed it using Netlify and Netlify serverless functions. This chatbot was for a CodeFirstGirls WebDev group challenge where I was part of a group that created a website to find free tech courses and tech volunteering opportunities for women. 
+
+Try out the finished website here! https://learncodeempower.netlify.app/
+
+The tech used within this project was: HTML, CSS, JavaScript, Bootstrap, jQuery terminal and the OpenAI API. It was deployed using Netlify serverless functions on Netlify.
+
+A demonstration of the AI chatbot created for this project is below. 
+<p align="center"><img width="400" alt="career chatbot" src="https://user-images.githubusercontent.com/113362369/217810050-308a4f7c-e68d-41c9-a21c-7f601b4cdd43.gif"></p>
+
+---
+
 ### Are You Bored?
 If you're bored, why not use this Flask app to receive a creative suggestion for what you should do next?!
 
