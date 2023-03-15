@@ -3,6 +3,16 @@ Click on the links to try out the projects or see the code within them!
 
 ---
 
+### fortuneteller
+A repo to try out the GPT3.5 API.
+When a user clicks on the link, the Tech Fortune Teller tells the user how they will make their fortune in tech.
+https://tech-fortune-teller.netlify.app/
+
+
+<p align="center"><img width="400" alt="tech fortune teller" src="https://user-images.githubusercontent.com/113362369/225266188-c8378689-2cdc-431c-bfcf-a391f17b0c9a.png"></p>
+
+---
+
 ### LearnCodeEmpower
 I created a chatbot using the OpenAI API and deployed it using Netlify and Netlify serverless functions. This chatbot was for a CodeFirstGirls WebDev group challenge where I was part of a group that created a website to find free tech courses and tech volunteering opportunities for women. 
 
